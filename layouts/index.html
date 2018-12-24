@@ -1,10 +1,11 @@
 {{- define "main" -}}
 {{ $homepage := "" }}
 {{ range first 1 .Site.Menus.nav }}
-{{ $homepage = .Name }}
 {{ end }}
 
-<h1>Rishul Bangar</h1>
-<h2>Wildlife & Architectural Photographer</h2>
-<img src="/img/mt-rainer-architectural-wildlife-photography.jpg"/>
+<div class="mx-auto" style="width:auto;">
+  <img src="/img/mt-rainer-architectural-wildlife-photography.jpg"/>
+</div>
+
+
 {{- end -}}

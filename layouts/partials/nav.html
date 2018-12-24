@@ -1,0 +1,11 @@
+<div class="container title">
+  <h1>Rishul Bangar</h1>
+  <h2>Wildlife & Architectural Photographer</h2>
+</div>
+<hr style="width:80%">
+<nav class="custom-navbar">
+  <div class="container">
+    {{ range .Site.Menus.nav }}
+    <a href="{{ .URL }}">{{ .Name }}</a> {{ end }}
+  </div>
+</nav>

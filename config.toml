@@ -20,10 +20,10 @@ pygmentsStyle = "pygments"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
-  navbarBackgroundColor = "#212529"
-  navbarLinkColor = "rgba(255, 255, 255, 0.75)"
-  navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
-  wrapperMaxWidth = "800px"
+  navbarBackgroundColor = "#FFF"
+  navbarLinkColor = "black"
+  navbarLinkHoverColor = "black"
+  wrapperMaxWidth = "1000px"
   customDateFormat = "Jan 2, 2006"
   customCodeStyle = true
   customBlockquoteStyle = true
@@ -38,18 +38,18 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-  name = "Posts"
+  name = "Home"
   url = "/"
   weight = 1
   [[menu.nav]]
-  name = "Tags"
-  url = "/tags/"
+  name = "Architecture"
+  url = "/Architecture/"
   weight = 2
   [[menu.nav]]
   name = "About"
   url = "/about/"
   weight = 3
-  [[menu.nav]]
-  name = "RSS"
-  url = "/index.xml"
-  weight = 4
+  # [[menu.nav]]
+  # name = "RSS"
+  # url = "/index.xml"
+  # weight = 4

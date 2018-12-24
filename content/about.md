@@ -5,7 +5,7 @@ date = "2014-04-09"
 
 ## This Theme
 
-Thanks for visiting this theme demo. If you're interested, checkout my other stuff over at <https://zwbetz.com>
+I'm Rishul Bangar. I am a gunda bucha
 
 ## Hugo
 
