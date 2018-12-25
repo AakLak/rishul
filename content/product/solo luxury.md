@@ -2,4 +2,4 @@
 title = "Solo Luxury"
 +++
 
-{{< gallery dir="/img/product/solo luxury" caption-position="none"/>}} {{< load-photoswipe>}}
+{{< gallery dir="img/product/solo luxury" caption-position="none"/>}} {{< load-photoswipe>}}
