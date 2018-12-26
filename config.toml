@@ -46,9 +46,13 @@ pygmentsStyle = "pygments"
   url = "/Architecture/"
   weight = 2
   [[menu.nav]]
+  name = "Product"
+  url = "/product/"
+  weight = 3
+  [[menu.nav]]
   name = "About"
   url = "/about/"
-  weight = 3
+  weight = 4
   # [[menu.nav]]
   # name = "RSS"
   # url = "/index.xml"
