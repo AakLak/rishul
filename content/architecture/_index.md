@@ -6,9 +6,9 @@ title = "Architecture"
   <div class="row">
     <div class="col-sm">
       <div class="card no-border" style="width: 18rem;">
-        <a class ="custom-card" href="/architecture/anjees-chalet">
-          <img class="card-img-top" src="/img/architecture/covers/Anjees-Cover.gif" alt="Anjees Chalet">
-          <p class="text-center">Anjees Chalet</p>
+        <a class ="custom-card" href="/architecture/Goregaon">
+          <img class="card-img-top" src="/img/architecture/covers/1.3bhk in Goregaon, for co_LAB Design Studio.jpeg" alt="Goregaon, for co_LAB Design Studio">
+          <p class="text-center">1.3bhk in Goregaon, for co_LAB Design Studio</p>
         </a>
       </div>
     </div>
@@ -24,5 +24,6 @@ title = "Architecture"
 
   <div class="col-sm">
   </div>
+
   </div>
 </div>
