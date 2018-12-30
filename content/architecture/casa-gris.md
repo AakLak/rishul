@@ -1,5 +1,5 @@
 +++
-title = "Casa Del Palms, for Vistarooms"
+title = "Casa Gris Nashik, for Vistarooms"
 +++
 
-{{< gallery dir="img/architecture/5 Casa Del" caption-position="none"/>}} {{< load-photoswipe>}}
+{{< gallery dir="img/architecture/7 Casa Gris" caption-position="none"/>}} {{< load-photoswipe>}}
