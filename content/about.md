@@ -5,7 +5,7 @@ date = "2014-04-09"
 
 ## This Theme
 
-I'm Rishul Bangar. I am a gunda bucha
+I'm Rishul Bangar.
 
 ## Hugo
 

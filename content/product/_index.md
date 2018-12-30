@@ -7,7 +7,7 @@ title = "Product"
     <div class="col-sm">
       <div class="card no-border" style="width: 18rem;">
         <a class ="custom-card" href="/product/golden-boxes">
-          <img class="card-img-top" src="/img/product/covers/golden-boxes.gif" alt="Golden Box">
+          <img class="card-img-top" src="/img/product/covers/golden-boxes.jpeg" alt="Golden Box">
           <p class="text-center">Le 15 Golden Boxes, for Le 15 Patisserie</p>
         </a>
       </div>
