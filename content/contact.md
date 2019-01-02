@@ -12,23 +12,23 @@ title = "Contact"
       <form name="contact" method="POST" data-netlify="true">
         <div class="form-group">
           <label for="exampleInputPassword1">Name*</label>
-          <input type="Name" class="form-control" id="Name" placeholder="Name">
+          <input type="Name" class="form-control" id="Name" name="name" placeholder="Name">
         </div>
         <div class="form-group">
           <label for="exampleInputEmail1">Email address*</label>
-          <input type="email" class="form-control" id="Email" aria-describedby="emailHelp" placeholder="Enter email">
+          <input type="email" class="form-control" id="Email" name="email" aria-describedby="emailHelp" placeholder="Enter email">
         </div>
         <div class="form-group">
           <label for="exampleInputPassword1">Mobile*</label>
-          <input type="Mobile" class="form-control" id="Mobile" placeholder="Mobile">
+          <input type="Mobile" class="form-control" id="Mobile" name="mobile" placeholder="Mobile">
         </div>
         <div class="form-group">
           <label for="exampleInputPassword1">Subject*</label>
-          <input type="Subject" class="form-control" id="Subject" placeholder="Subject">
+          <input type="Subject" class="form-control" id="Subject" name="subject" placeholder="Subject">
         </div>
         <div class="form-group">
           <label for="exampleFormControlTextarea1">Message</label>
-          <textarea class="form-control" id="Message" rows="3"></textarea>
+          <textarea class="form-control" id="Message" name="message" rows="3"></textarea>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
       </form>
