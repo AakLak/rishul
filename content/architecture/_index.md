@@ -16,7 +16,7 @@ title = "Architecture"
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/arthurs-theme">
-        <img class="card-img-top" src="/img/architecture/covers/Arthurs-Cover.gif" alt="Anjees Chalet">
+        <img class="card-img-top" src="/img/architecture/covers/Arthur's Theme Andgeri, for Barkha Gangwani.jpeg" alt="Anjees Chalet">
         <p class="text-center">Arthur's Theme</p>
       </a>
     </div>
