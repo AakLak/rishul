@@ -2,10 +2,15 @@
   <h1>Rishul Bangar</h1>
   <h2>Architectural & Commercial Photographer</h2>
 </div>
-<hr style="width:80%">
-<nav class="custom-navbar">
-  <div class="container">
-    {{ range .Site.Menus.nav }}
-    <a href="{{ .URL }}">{{ .Name }}</a> {{ end }}
+
+<div class="container" style="">
+  <div class="row">
+    <hr style="width:80%">
+    <nav class="custom-navbar">
+
+        {{ range .Site.Menus.nav }}
+        <a href="{{ .URL }}">{{ .Name }}</a> {{ end }}
+
+    </nav>
   </div>
-</nav>
+</div>

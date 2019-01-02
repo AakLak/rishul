@@ -5,13 +5,9 @@
 
 <body>
   {{ partial "nav.html" . }}
-
-  <div class="container">
-    <article>
+<div class="container">
       {{ block "main" . }}{{ end }}
-    </article>
-
-  </div>
+</div>
   {{ partial "footer.html" . }}
   {{ partial "font-awesome.html" . }}
   {{ partial "bootstrap-js.html" . }}

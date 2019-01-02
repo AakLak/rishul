@@ -26,7 +26,7 @@ title = "Wildlife"
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/wildlife/gir-national-park-gujarat">
         <img class="card-img-top" src="/img/wildlife/covers/3.Gir National Park, Gujarat.jpeg" alt="Ranthambhore National Park, Rajasthan">
-        <p class="text-center">Ranthambhore National Park, Rajasthan</p>
+        <p class="text-center">Gir National Park, Gujarat</p>
       </a>
     </div>
   </div>

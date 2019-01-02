@@ -30,7 +30,7 @@ img.card-img-top:hover {
   font-size: 1.5em
 }
 
-nav > div > a {
+nav > a {
   text-transform: uppercase;
   font-weight: 200 !important;
   font-size: 1em;
