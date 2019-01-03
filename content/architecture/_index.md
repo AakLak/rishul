@@ -167,7 +167,7 @@ title = "Architecture"
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/3bhk-khar-khushnuma">
         <img class="card-img-top" src="/img/architecture/covers/17.3BHK in Khar, for Khushnuma Patil.jpeg" alt="Anjees Chalet">
-        <p class="text-center">3BHK in Khar, for Khushnuma Patil.jpeg</p>
+        <p class="text-center">3BHK in Khar, for Khushnuma Patil</p>
       </a>
     </div>
   </div>
