@@ -19,7 +19,7 @@ title = "Contact"
           <input type="email" class="form-control" id="Email" name="email" aria-describedby="emailHelp" placeholder="Enter email">
         </div>
         <div class="form-group">
-          <label for="exampleInputPassword1">Mobile*</label>
+          <label for="exampleInputPassword1">Mobile</label>
           <input type="Mobile" class="form-control" id="Mobile" name="mobile" placeholder="Mobile">
         </div>
         <div class="form-group">
@@ -27,7 +27,7 @@ title = "Contact"
           <input type="Subject" class="form-control" id="Subject" name="subject" placeholder="Subject">
         </div>
         <div class="form-group">
-          <label for="exampleFormControlTextarea1">Message</label>
+          <label for="exampleFormControlTextarea1">Message*</label>
           <textarea class="form-control" id="Message" name="message" rows="3"></textarea>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
