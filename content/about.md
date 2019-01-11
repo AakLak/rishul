@@ -24,6 +24,7 @@ date = "2014-04-09"
 - Yes Bank
 
 ## Publications and Features
+- National Geographic Traveller India
 - Business Today Magazine
 - Bombay Times
 - The Architects Diary
