@@ -2,6 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,400,700" rel="stylesheet">
+
   {{ .Hugo.Generator }}
 
   {{ with .Site.Params.description }}
@@ -27,9 +28,12 @@
 
   <meta name="theme-color" content="{{ .Site.Params.faviconThemeColor }}">
 
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script src="/js/bootstrap.min.js"></script>
   {{ $bootstrapCss := "css/bootstrap.min.css" }}
   <link rel="stylesheet" href="{{ $bootstrapCss | absURL }}" />
   <link rel="stylesheet" href="/css/my-css.css" />
+
 
   {{ if .IsHome }}
   {{ $homepage := "" }}{{ range first 1 .Site.Menus.nav }}{{ $homepage = .Name }}{{ end }}
@@ -39,4 +43,5 @@
   {{ end }}
 
   {{ partial "style.html" . }}
+
 </head>
