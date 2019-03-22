@@ -24,24 +24,6 @@ title = "Architecture"
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
-      <a class ="custom-card" href="/architecture/arthurs-theme">
-        <img class="card-img-top" src="/img/architecture/covers/Arthur's Theme Andgeri, for Barkha Gangwani.jpg" alt="Anjees Chalet">
-        <p class="text-center">Arthur's Theme</p>
-      </a>
-    </div>
-  </div>
-
-  <div class="col-sm">
-    <div class="card no-border" style="width: 18rem;">
-      <a class ="custom-card" href="/architecture/azule-lonavala">
-        <img class="card-img-top" src="/img/architecture/covers/2.Azule Lonavala, for Vista Rooms.jpg" alt="Goregaon, for co_LAB Design Studio">
-        <p class="text-center">Azule Lonavala, for Vista Rooms</p>
-      </a>
-    </div>
-  </div>
-
-  <div class="col-sm">
-    <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/baan-thai">
         <img class="card-img-top" src="/img/architecture/covers/3.Baan Thai Alibaug, for Vista Rooms.jpg" alt="Goregaon, for co_LAB Design Studio">
         <p class="text-center">Baan Thai Alibaug, for Vista Rooms</p>
@@ -51,20 +33,36 @@ title = "Architecture"
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
-      <a class ="custom-card" href="/architecture/firangipani-goa">
-        <img class="card-img-top" src="/img/architecture/covers/4.Firangipani Goa, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
-        <p class="text-center">Firangipani Goa, for Vistarooms</p>
+      <a class ="custom-card" href="/architecture/sarah">
+        <img class="card-img-top" src="/img/architecture/covers/Sarah.jpg" alt="Sarah's Chalet">
+        <p class="text-center">Sarah's Chalet, Nainital for Vistarooms</p>
       </a>
     </div>
   </div>
 
-
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/arthurs-theme">
+        <img class="card-img-top" src="/img/architecture/covers/Arthur's Theme Andgeri, for Barkha Gangwani.jpg" alt="Arthur's Theme Andgeri">
+        <p class="text-center">Arthur's Theme</p>
+      </a>
+    </div>
+  </div>
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/raheja-sapphire-khar">
         <img class="card-img-top" src="/img/architecture/covers/6.Raheja Sapphire Khar, for S.Raheja Realty.jpg" alt="Goregaon, for co_LAB Design Studio">
         <p class="text-center">Raheja Sapphire Khar, for S.Raheja Realty</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/casa-gris">
+        <img class="card-img-top" src="/img/architecture/covers/7.Casa Gris Nashik, for Vistarooms.jpg" alt="Casa Gris Nashik, for Vistarooms">
+        <p class="text-center">Casa Gris Nashik, for Vistarooms</p>
       </a>
     </div>
   </div>
@@ -78,7 +76,6 @@ title = "Architecture"
     </div>
   </div>
 
-
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/ohana-alibaug">
@@ -91,7 +88,7 @@ title = "Architecture"
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/shree-pooja-juhu">
-        <img class="card-img-top" src="/img/architecture/covers/10.Shree Pooja Juhu, for S.Raheja Realty.jpg" alt="Anjees Chalet">
+        <img class="card-img-top" src="/img/architecture/covers/10.Shree Pooja Juhu, for S.Raheja Realty.jpg" alt="Shree Pooja Juhu">
         <p class="text-center">Shree Pooja Juhu, for S.Raheja Realty</p>
       </a>
     </div>
@@ -118,7 +115,7 @@ title = "Architecture"
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/breeze-in-the-hills">
-        <img class="card-img-top" src="/img/architecture/covers/13.Breeze in the Hills, for Mr.Arsiwala.jpg" alt="Anjees Chalet">
+        <img class="card-img-top" src="/img/architecture/covers/13.Breeze in the Hills, for Mr.Arsiwala.jpg" alt="Breeze in the Hills">
         <p class="text-center">Breeze in the Hills, for Mr.Arsiwala</p>
       </a>
     </div>
@@ -135,6 +132,15 @@ title = "Architecture"
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/villa-41-lonavala">
+        <img class="card-img-top" src="/img/architecture/covers/15.Villa 41 Lonavala, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
+        <p class="text-center">Villa 41 Lonavala</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/sarg-lonavala">
         <img class="card-img-top" src="/img/architecture/covers/16.Swarg Lonavala, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
         <p class="text-center">Swarg Lonavala, for Vistarooms</p>
@@ -145,7 +151,7 @@ title = "Architecture"
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/3bhk-khar-khushnuma">
-        <img class="card-img-top" src="/img/architecture/covers/17.3BHK in Khar, for Khushnuma Patil.jpg" alt="Anjees Chalet">
+        <img class="card-img-top" src="/img/architecture/covers/17.3BHK in Khar, for Khushnuma Patil.jpg" alt="3BHK in Khar">
         <p class="text-center">3BHK in Khar, for Khushnuma Patil</p>
       </a>
     </div>
@@ -153,9 +159,18 @@ title = "Architecture"
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
-      <a class ="custom-card" href="/architecture/villa-41-lonavala">
-        <img class="card-img-top" src="/img/architecture/covers/15.Villa 41 Lonavala, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
-        <p class="text-center">Villa 41 Lonavala</p>
+      <a class ="custom-card" href="/architecture/firangipani-goa">
+        <img class="card-img-top" src="/img/architecture/covers/4.Firangipani Goa, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
+        <p class="text-center">Firangipani Goa, for Vistarooms</p>
+      </a>
+    </div>
+  </div>
+  
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/azule-lonavala">
+        <img class="card-img-top" src="/img/architecture/covers/2.Azule Lonavala, for Vista Rooms.jpg" alt="Goregaon, for co_LAB Design Studio">
+        <p class="text-center">Azule Lonavala, for Vista Rooms</p>
       </a>
     </div>
   </div>
