@@ -15,6 +15,15 @@ title = "Architecture"
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/bayroute-juhu">
+        <img class="card-img-top" src="/img/architecture/covers/Bayroute Juhu.jpg" alt="Bayroute Juhu">
+        <p class="text-center">Bayroute Juhu, for Mirah Hospitality</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/arthurs-theme">
         <img class="card-img-top" src="/img/architecture/covers/Arthur's Theme Andgeri, for Barkha Gangwani.jpg" alt="Anjees Chalet">
         <p class="text-center">Arthur's Theme</p>
@@ -31,23 +40,11 @@ title = "Architecture"
     </div>
   </div>
 
-  </div>
-
-  <div class="row">
-    <div class="col-sm">
-      <div class="card no-border" style="width: 18rem;">
-        <a class ="custom-card" href="/architecture/baan-thai">
-          <img class="card-img-top" src="/img/architecture/covers/3.Baan Thai Alibaug, for Vista Rooms.jpg" alt="Goregaon, for co_LAB Design Studio">
-          <p class="text-center">Baan Thai Alibaug, for Vista Rooms</p>
-        </a>
-      </div>
-    </div>
-
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
-      <a class ="custom-card" href="/architecture/casa-del-palms">
-        <img class="card-img-top" src="/img/architecture/covers/5.Casa Del Palms, for Vistarooms.jpg" alt="Anjees Chalet">
-        <p class="text-center">Casa Del Palms, for Vistarooms</p>
+      <a class ="custom-card" href="/architecture/baan-thai">
+        <img class="card-img-top" src="/img/architecture/covers/3.Baan Thai Alibaug, for Vista Rooms.jpg" alt="Goregaon, for co_LAB Design Studio">
+        <p class="text-center">Baan Thai Alibaug, for Vista Rooms</p>
       </a>
     </div>
   </div>
@@ -61,23 +58,13 @@ title = "Architecture"
     </div>
   </div>
 
-  </div>
 
-  <div class="row">
-    <div class="col-sm">
-      <div class="card no-border" style="width: 18rem;">
-        <a class ="custom-card" href="/architecture/raheja-sapphire-khar">
-          <img class="card-img-top" src="/img/architecture/covers/6.Raheja Sapphire Khar, for S.Raheja Realty.jpg" alt="Goregaon, for co_LAB Design Studio">
-          <p class="text-center">Raheja Sapphire Khar, for S.Raheja Realty</p>
-        </a>
-      </div>
-    </div>
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
-      <a class ="custom-card" href="/architecture/casa-gris">
-        <img class="card-img-top" src="/img/architecture/covers/7.Casa Gris Nashik, for Vistarooms.jpg" alt="Anjees Chalet">
-        <p class="text-center">Casa Gris Nashik, for Vistarooms</p>
+      <a class ="custom-card" href="/architecture/raheja-sapphire-khar">
+        <img class="card-img-top" src="/img/architecture/covers/6.Raheja Sapphire Khar, for S.Raheja Realty.jpg" alt="Goregaon, for co_LAB Design Studio">
+        <p class="text-center">Raheja Sapphire Khar, for S.Raheja Realty</p>
       </a>
     </div>
   </div>
@@ -91,17 +78,15 @@ title = "Architecture"
     </div>
   </div>
 
-  </div>
 
-  <div class="row">
-    <div class="col-sm">
-      <div class="card no-border" style="width: 18rem;">
-        <a class ="custom-card" href="/architecture/ohana-alibaug">
-          <img class="card-img-top" src="/img/architecture/covers/9.Ohana Alibaug, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
-          <p class="text-center">Ohana Alibaug, for Vistarooms</p>
-        </a>
-      </div>
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/ohana-alibaug">
+        <img class="card-img-top" src="/img/architecture/covers/9.Ohana Alibaug, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
+        <p class="text-center">Ohana Alibaug, for Vistarooms</p>
+      </a>
     </div>
+  </div>
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
@@ -121,17 +106,14 @@ title = "Architecture"
     </div>
   </div>
 
-  </div>
-
-  <div class="row">
-    <div class="col-sm">
-      <div class="card no-border" style="width: 18rem;">
-        <a class ="custom-card" href="/architecture/raheja-cascades">
-          <img class="card-img-top" src="/img/architecture/covers/12.Raheja Cascades, for S.Raheja Realty.jpg" alt="Goregaon, for co_LAB Design Studio">
-          <p class="text-center">Raheja Cascades, for S.Raheja Realty</p>
-        </a>
-      </div>
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/raheja-cascades">
+        <img class="card-img-top" src="/img/architecture/covers/12.Raheja Cascades, for S.Raheja Realty.jpg" alt="Goregaon, for co_LAB Design Studio">
+        <p class="text-center">Raheja Cascades, for S.Raheja Realty</p>
+      </a>
     </div>
+  </div>
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
@@ -151,17 +133,14 @@ title = "Architecture"
     </div>
   </div>
 
-  </div>
-
-  <div class="row">
-    <div class="col-sm">
-      <div class="card no-border" style="width: 18rem;">
-        <a class ="custom-card" href="/architecture/sarg-lonavala">
-          <img class="card-img-top" src="/img/architecture/covers/16.Swarg Lonavala, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
-          <p class="text-center">Swarg Lonavala, for Vistarooms</p>
-        </a>
-      </div>
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/sarg-lonavala">
+        <img class="card-img-top" src="/img/architecture/covers/16.Swarg Lonavala, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
+        <p class="text-center">Swarg Lonavala, for Vistarooms</p>
+      </a>
     </div>
+  </div>
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
@@ -181,6 +160,6 @@ title = "Architecture"
     </div>
   </div>
 
-  </div>
 
+</div>
 </div>
