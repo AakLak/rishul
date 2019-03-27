@@ -15,7 +15,7 @@ pygmentsStyle = "pygments"
   post = "/:filename/"
 
 [params]
-  description = "Some description"
+  description = "Architectural & Commercial Photographer"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
