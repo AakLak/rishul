@@ -4,14 +4,6 @@ title = "Architecture"
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-sm">
-      <div class="card no-border" style="width: 18rem;">
-        <a class ="custom-card" href="/architecture/goregaon">
-          <img class="card-img-top" src="/img/architecture/covers/1.3bhk in Goregaon, for co_LAB Design Studio.jpg" alt="Goregaon, for co_LAB Design Studio">
-          <p class="text-center">1.3bhk in Goregaon, for co_LAB Design Studio</p>
-        </a>
-      </div>
-    </div>
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
@@ -151,8 +143,8 @@ title = "Architecture"
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/3bhk-khar-khushnuma">
-        <img class="card-img-top" src="/img/architecture/covers/17.3BHK in Khar, for Khushnuma Patil.jpg" alt="3BHK in Khar">
-        <p class="text-center">3BHK in Khar, for Khushnuma Patil</p>
+        <img class="card-img-top" src="/img/architecture/covers/17.Sarah's Chalet Bhimtal, for Vistarooms.jpg" alt="3BHK in Khar">
+        <p class="text-center">Sarah's Chalet Bhimtal, for Vistarooms</p>
       </a>
     </div>
   </div>
@@ -165,7 +157,7 @@ title = "Architecture"
       </a>
     </div>
   </div>
-  
+
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/azule-lonavala">
