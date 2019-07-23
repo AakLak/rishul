@@ -18,7 +18,7 @@ title = "Architecture"
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/bayroute-bkc-for-mirah-hospitality">
         <img class="card-img-top" src="/img/architecture/covers/2.Bayroute BKC for Mirah Hospitality.jpg" alt="Infinity Resorts Kanha">
-        <p class="text-center">Infinity Resorts Kanha</p>
+        <p class="text-center">Bayroute BKC for Mirah Hospitality</p>
       </a>
     </div>
   </div>
@@ -27,7 +27,7 @@ title = "Architecture"
     <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/corner-house-shimla-for-wistarooms">
         <img class="card-img-top" src="/img/architecture/covers/3.Corner House Shimla, for Vistarooms.jpg" alt="Infinity Resorts Kanha">
-        <p class="text-center">Infinity Resorts Kanha</p>
+        <p class="text-center">Corner House Shimla, for Vistarooms</p>
       </a>
     </div>
   </div>
