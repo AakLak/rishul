@@ -169,14 +169,5 @@ title = "Portraits"
       </div>
     </div>
 
-<div class="col-sm">
-      <div class="card no-border" style="width: 18rem;">
-        <a class="custom-card" href="/portraits/andbeyondmedia">
-          <img class="card-img-top" src="/img/portraits/covers/5.AndBeyondMedia Co-Founders Shoot.jpeg" alt="Creative Portraits">
-          <p class="text-center">AndBeyondMedia Co-Founders Shoot</p>
-        </a>
-      </div>
-    </div>
-
   </div>
 </div>
