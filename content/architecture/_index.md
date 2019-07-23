@@ -7,6 +7,33 @@ title = "Architecture"
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/infinity-iesorts-kanha">
+        <img class="card-img-top" src="/img/architecture/covers/1.Infinity Resorts Kanha.jpg" alt="Infinity Resorts Kanha">
+        <p class="text-center">Infinity Resorts Kanha</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/bayroute-bkc-for-mirah-hospitality">
+        <img class="card-img-top" src="/img/architecture/covers/2.Bayroute BKC for Mirah Hospitality.jpg" alt="Infinity Resorts Kanha">
+        <p class="text-center">Infinity Resorts Kanha</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
+      <a class ="custom-card" href="/architecture/corner-house-shimla-for-wistarooms">
+        <img class="card-img-top" src="/img/architecture/covers/3.Corner House Shimla, for Vistarooms.jpg" alt="Infinity Resorts Kanha">
+        <p class="text-center">Infinity Resorts Kanha</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm">
+    <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/bayroute-juhu">
         <img class="card-img-top" src="/img/architecture/covers/Bayroute Juhu.jpg" alt="Bayroute Juhu">
         <p class="text-center">Bayroute Juhu, for Mirah Hospitality</p>
