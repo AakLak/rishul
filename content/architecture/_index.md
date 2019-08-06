@@ -169,15 +169,6 @@ title = "Architecture"
 
   <div class="col-sm">
     <div class="card no-border" style="width: 18rem;">
-      <a class ="custom-card" href="/architecture/3bhk-khar-khushnuma">
-        <img class="card-img-top" src="/img/architecture/covers/17.Sarah's Chalet Bhimtal, for Vistarooms.jpg" alt="3BHK in Khar">
-        <p class="text-center">Sarah's Chalet Bhimtal, for Vistarooms</p>
-      </a>
-    </div>
-  </div>
-
-  <div class="col-sm">
-    <div class="card no-border" style="width: 18rem;">
       <a class ="custom-card" href="/architecture/firangipani-goa">
         <img class="card-img-top" src="/img/architecture/covers/4.Firangipani Goa, for Vistarooms.jpg" alt="Goregaon, for co_LAB Design Studio">
         <p class="text-center">Firangipani Goa, for Vistarooms</p>
