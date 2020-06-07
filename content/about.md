@@ -5,31 +5,35 @@ date = "2014-04-09"
 
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-8">In my final year of studying Architecture, I was awarded Best Student - yet, ironically, instead of the usual gift of a book related to the field, my professors gave me a book about photography.
+    <div class="col-12 col-md-8">Hi, I’m Rishul, an Architect and Architectural Photographer based in Mumbai, India.
     </br></br>
-    I am an Architectural and Commercial Photographer based in Mumbai, Maharashtra. I have shot over a hundred properties for various clients, including some award-winning projects, and my work has featured in National Geographic Traveller, Business today and Bombay Times. I am also the Architect behind Sets in the City, Mumbai's first outdoor photography studio.
+    I am currently working as the Manager of Photography and Visual Content at Vista Rooms, South Asia’s largest chain of boutique and luxury holiday homes. My job involves managing an in-house team along with 20+ freelance photographers while photographing properties myself.
     </br></br>
-    Photography has been an integral part of my life for years now. I had learned how to use a DSLR manually before I owned a cell phone. After completing my foundation course in photography from FX School in Mumbai, I pursued my Bachelors in Architecture from L. S. Raheja School of Architecture affiliated with Mumbai University. My initial muse was wildlife, but soon, owing to my study of architecture, I developed a keener interest in shooting built spaces. Over time I began to assimilate knowledge on the art of making an image stand out in the busy digital world.
+   I have shot over 150+ holiday homes across India, along with freelance assignments ranging from real estate, hospitality, interiors, and products. As an architect, I have designed Mumbai's first outdoor photography studio: Sets in the City, working on 25 different sets themed on countries from across the world. 
+   </br></br>
+   My love for photography started by photographing wildlife, and I still possess a keen interest in documenting wildlife in their natural habitat.  
 </div>
     <div class="col-6 col-md-4 mx-auto"><img src="/img/rishul-bangar.jpeg"></div>
   </div>
 </div>
 
 ## A few of my clients
+- Piramal Group
+- S.Rajeha Reality
+- Mirah Hospitality
 - Vista Rooms
 - Bookings.com
-- Sets in the City
-- Le15 Patisserie
-- S Raheja Reality
-- AndBeyondMedia
 - Yes Bank
+- AndBeyondMedia
+- Le15 Patisserie
 
 ## Publications and Features
+- Architectural Digest
 - National Geographic Traveller India
 - Business Today Magazine
 - Bombay Times
-- The Architects Diary
+- Inside Outside Magazine
 - LBB
+- An Architects Diary
 - ADgully
-- Mumbai Instagrammers
 
