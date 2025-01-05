@@ -17,7 +17,6 @@ My love for photography began with capturing wildlife, and I still hold a deep p
 Let’s connect and create compelling visual stories that leave a lasting impact! 
 </div>
     <div class="col-6 col-md-4 mx-auto"><img src="/img/Rishul-Profile.webp"></div>
-    <div class="col-6 col-md-4 mx-auto"><img src="/img/rishul-bangar.jpeg"></div>
   </div>
 </div>
 
