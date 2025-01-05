@@ -5,7 +5,7 @@ date = "2014-04-09"
 
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-8">Hi, I’m Rishul, an Architect and Architectural Photographer based in Mumbai, India.
+    <div class="col-12 col-md-8">Hi, I’m Rishul B, an Architect and Architectural Photographer based in Mumbai, India.
     </br></br>
     I am currently working as the Manager of Photography and Visual Content at Vista Rooms, South Asia’s largest chain of boutique and luxury holiday homes. My job involves managing an in-house team along with 20+ freelance photographers while photographing properties myself.
     </br></br>
