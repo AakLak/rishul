@@ -20,23 +20,22 @@ Let’s connect and create compelling visual stories that leave a lasting impact
   </div>
 </div>
 
-## A few of my clients
+## A few of my clients:
+- StayVista
+- Kempinski Group
+- Jehan Numa Hotels
 - Piramal Group
-- S.Rajeha Reality
+- S.Rajeha Realty
 - Mirah Hospitality
-- Vista Rooms
 - Bookings.com
 - Yes Bank
-- AndBeyondMedia
 - Le15 Patisserie
 
-## Publications and Features
+## Publications and Features:
+- Condé Nast Traveler
 - Architectural Digest
-- National Geographic Traveller India
+- National Geographic Traveler
 - Business Today Magazine
-- Bombay Times
-- Inside Outside Magazine
-- LBB
-- An Architects Diary
-- ADgully
+- Times of India
+- Elle Decor
 
